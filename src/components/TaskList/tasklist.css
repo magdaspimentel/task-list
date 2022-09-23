@@ -1,0 +1,13 @@
+.tasklist {
+  padding: 1rem;
+  text-align: center;
+  background-color: #eeeeee;
+  margin: 2rem 1rem;
+}
+
+.title {
+  color: #0e0e0e;
+  padding: 0.5rem 3rem;
+  font-weight: 600;
+  font-size: 1.2rem;
+}

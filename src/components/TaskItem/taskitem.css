@@ -1,0 +1,49 @@
+.task-item > div {
+  color: #0e0e0e;
+  background-color: #fbfbfb;
+  margin-bottom: 10px;
+  width: 100%;
+  cursor: pointer;
+  outline: none;
+  padding: 10px;
+  font-size: 1rem;
+  text-align: left;
+}
+
+.task-item input[type="text"] {
+  color: #0e0e0e;
+  padding: 10px;
+  font-size: 1rem;
+  margin: 10px 0;
+  outline: none;
+  width: 100%;
+  background-color: #fbfbfb;
+}
+
+.task-item select {
+  color: #0e0e0e;
+  background-color: #fbfbfb;
+  width: 100%;
+  margin-bottom: 20px;
+  cursor: pointer;
+  outline: none;
+  padding: 5px;
+  font-size: 0.9rem;
+  border: 1px solid #0e0e0e;
+}
+
+.empty-list {
+  color: #0e0e0e;
+  font-size: 1rem;
+  padding: 20px 0;
+}
+
+.btn {
+  cursor: pointer;
+  background-color: #283db6;
+  color: #fbfbfb;
+  padding: 10px 30px;
+  font-size: 0.9rem;
+  text-transform: uppercase;
+  margin-top: 10px;
+}
